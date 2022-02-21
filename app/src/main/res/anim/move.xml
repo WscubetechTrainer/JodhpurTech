@@ -5,4 +5,8 @@
         android:toXDelta="400"
         android:duration = "2000"/>
 
+    <alpha android:fromAlpha="0"
+        android:toAlpha="1"
+        android:duration = "2000"/>
+
 </set>
